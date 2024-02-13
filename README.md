@@ -49,4 +49,4 @@ The current weather conditions for the last searched city are stored in the `loc
 * ![Screenshot (16)](https://github.com/lsaox/WeatherApiHW/assets/138525227/c8503144-fe15-49eb-8f94-21bea3da888b)
 
 Link to Deployed Application : 
-
+https://lsaox.github.io/WeatherApiHW/
